@@ -1,0 +1,3 @@
+#Find DHCP's IP address, let's call it "a", and run <nslookup a | grep name | awk '{print $4}'>
+#My Mac's host's name:
+c2r3p11.hive.fi

@@ -1,0 +1,2 @@
+graphic session: type username and password when asked
+ssh session: ssh user@ip_address then type password when asked

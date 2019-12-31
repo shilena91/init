@@ -1,0 +1,5 @@
+Use host <domain name> to get IP address of <domain name>
+Then use whois <address>, OrgNOCName is host of <domain name>
+host slash16.org
+whois <IP addess from "host slash15.org">
+host of <slash16.org> is "Amazon AWS Network Operations"

@@ -1,0 +1,4 @@
+run "traceroute slash16.org", line 1 is local IP address, line 2 is NAT router. This router remaps local IP to public IP pointing to dc3, host of public IP, in other words outside world.
+1. Local IP
+2. NAT IP
+3. Public IP
